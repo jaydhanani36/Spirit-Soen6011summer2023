@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "angular": "^1.7.9",
+    "angular": "^1.8.2",
     "angular-jwt": "^0.1.11",
     "angular-ui-router": "^1.0.26",
     "oclazyload": "^1.1.0"
